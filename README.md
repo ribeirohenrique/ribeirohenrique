@@ -8,8 +8,5 @@ Mas sempre aprendendo um pouco de tudo, do Arduino à mensageria Kafka<br>
 </div>
 <br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeirohenrique&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirohenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
